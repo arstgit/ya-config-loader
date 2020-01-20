@@ -1,0 +1,25 @@
+{
+  "name": "ya-config-loader",
+  "version": "1.0.0",
+  "description": "A simple json config loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test NAME=envName node test",
+    "prettier": "prettier --write --no-semi --single-quote *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekchuank/ya-config-loader.git"
+  },
+  "keywords": [
+    "config",
+    "loader",
+    "JSON"
+  ],
+  "author": "derekchuank",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derekchuank/ya-config-loader/issues"
+  },
+  "homepage": "https://github.com/derekchuank/ya-config-loader#readme"
+}
